@@ -1,5 +1,5 @@
 ### Lab: Single Page Application (SPA)- Wordly
-url - http://127.0.0.1:5500/labs/Wordly%20dictionary%20feature/index.html
+url - https://keerusandra.github.io/wordly-dictionary/
 
 **Estimate Completed Time:** ~60 min.
 
