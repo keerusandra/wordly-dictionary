@@ -14,7 +14,7 @@ As a developer for Wordly, you are tasked with building a Single Page Applicatio
 #### Tools and Resources
 - VSCode (or any code editor)
 - Web browser for testing
-- GitHub repository (https://github.com/wordly-dictionary.git)
+- GitHub repository (https://github.com/keerusandra/wordly-dictionary.git)
 - Node.js installed
 
 **Instructions:**
